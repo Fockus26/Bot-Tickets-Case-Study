@@ -35,7 +35,7 @@ It also integrated with an external web platform to receive purchase requests an
 
 ## 📸 Showcase
 
-### 🔑 Authenticating user
+### 🔑 User Authentication
 
 ![Authentication](./assets/ticketmaster/gifs/Authentication.gif)
 
